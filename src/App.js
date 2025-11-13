@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import { Modal, Button } from 'react-bootstrap';
 
-const API_URL = "https://69152a8e84e8bd126af8e315.mockapi.io/:endpoint";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+const API_URL = "https://69152a8e84e8bd126af8e315.mockapi.io/products";
 
 const initialCreateFormState = {
   name: "",
