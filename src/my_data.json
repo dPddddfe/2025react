@@ -1,0 +1,158 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Web Service Development",
+      "code": "ECE20009",
+      "professor": "Prof. Sung Keum-young",
+      "major": "Dept. of CSEE",
+      "credits": 3,
+      "place": "NTH 311",
+      "time": "Tue 3, Fri 3",
+      "grade": "-"
+    },
+    {
+      "id": "2",
+      "name": "Computer Architecture",
+      "code": "ECE20021",
+      "professor": "Prof. Yong Hwan-ki",
+      "major": "Dept. of CSEE",
+      "credits": 3,
+      "place": "NTH 313",
+      "time": "Tue 2, Fri 2",
+      "grade": "-"
+    },
+    {
+      "id": "3",
+      "name": "Open Source Studio",
+      "code": "ECE20026",
+      "professor": "Prof. Kim Se-jin",
+      "major": "Dept. of CSEE",
+      "credits": 3,
+      "place": "NTH 313",
+      "time": "Mon 1, Thu 1, Thu 2",
+      "grade": "-"
+    },
+    {
+      "id": "4",
+      "name": "Kuiper RC Chapel",
+      "code": "GEK90021",
+      "professor": "Chaplain Kim Wan-jin et al.",
+      "major": "School of Global Leadership",
+      "credits": 0.5,
+      "place": "HCA Hyuam Main Hall",
+      "time": "Wed 4, Wed 5, Wed 6",
+      "grade": "-"
+    },
+    {
+      "id": "5",
+      "name": "Patent Law and Tech Startup",
+      "code": "LAW20014",
+      "professor": "Prof. Park Jae-pyeong",
+      "major": "School of Law",
+      "credits": 3,
+      "place": "ANH 313",
+      "time": "Tue 5, Tue 6",
+      "grade": "-"
+    },
+    {
+      "id": "6",
+      "name": "Social Security Law",
+      "code": "LAW40016",
+      "professor": "Prof. Lee Da-hye",
+      "major": "School of Law",
+      "credits": 3,
+      "place": "ANH 305",
+      "time": "Mon 5, Thu 5",
+      "grade": "-"
+    },
+    {
+      "id": "7",
+      "name": "Data Structures",
+      "code": "ECE20010",
+      "professor": "Prof. Kim Ho-jun",
+      "major": "Dept. of CSEE",
+      "credits": 3,
+      "place": "NTH 311",
+      "time": "Mon 6, Thu 6",
+      "grade": "B0"
+    },
+    {
+      "id": "8",
+      "name": "Java Programming Language",
+      "code": "ECE20016",
+      "professor": "Prof. Kim Ki-seok",
+      "major": "Dept. of CSEE",
+      "credits": 3,
+      "place": "NTH 313",
+      "time": "Tue 5, Fri 5",
+      "grade": "B0"
+    },
+    {
+      "id": "9",
+      "name": "Programming Studio",
+      "code": "ECE20025",
+      "professor": "Prof. Kim Kwang",
+      "major": "Dept. of CSEE",
+      "credits": 2,
+      "place": "NTH 310",
+      "time": "Tue 2, Fri 2",
+      "grade": "A0"
+    },
+    {
+      "id": "10",
+      "name": "Kuiper RC Chapel",
+      "code": "GEK30001",
+      "professor": "Chaplain Kim Wan-jin et al.",
+      "major": "School of Global Leadership",
+      "credits": 0.5,
+      "place": "HCA Hyuam Main Hall",
+      "time": "Wed 4, Wed 5, Wed 6",
+      "grade": "P"
+    },
+    {
+      "id": "11",
+      "name": "Criminal Law 1",
+      "code": "LAW20009",
+      "professor": "Prof. Cho Hye-shin",
+      "major": "School of Law",
+      "credits": 3,
+      "place": "ANH 302",
+      "time": "Mon 3, Thu 3",
+      "grade": "B0"
+    },
+    {
+      "id": "12",
+      "name": "Constitutional Law 1",
+      "code": "LAW20003",
+      "professor": "Prof. Lee Kook-woon",
+      "major": "School of Law",
+      "credits": 3,
+      "place": "ANH 302",
+      "time": "Mon 2, Thu 2",
+      "grade": "A0"
+    },
+    {
+      "id": "13",
+      "name": "Liberty, Justice, Peace, Law",
+      "code": "LAW20017",
+      "professor": "Prof. Cho Hye-shin et al.",
+      "major": "School of Law",
+      "credits": 1,
+      "place": "ANH 302",
+      "time": "Mon 4",
+      "grade": "P"
+    },
+    {
+      "id": "9077",
+      "name": "test",
+      "code": "1234",
+      "professor": "test",
+      "major": "test",
+      "credits": 1,
+      "place": "test",
+      "time": "test",
+      "grade": "A"
+    }
+  ]
+}
